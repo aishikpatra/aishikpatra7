@@ -1,27 +1,33 @@
-# Hello, I'm Aishik Patra! 👋
+# 👋 Hey there, I'm Aishik Patra!
 
-## Professional Headline
-I'm an **AI Enthusiast** and **Software Developer** with a passion for **machine learning** and **mobile app development**.
+## 🚀 About Me
+I'm an **AI Enthusiast** and **Software Developer** with a passion for building intelligent systems and mobile applications. Always up for tackling algorithmic challenges and contributing to cutting-edge tech!
 
-## About Me
-- **Machine Learning & Computer Vision**: Experienced in working with Graph Convolutional Networks (GCNs) and solving complex problems in image processing.
-- **Flutter & Mobile Apps**: Developing innovative apps, including a habit tracker app to help users stay on top of their goals.
-- **Algorithmic Challenges**: Enthusiastic about solving algorithmic challenges and improving problem-solving skills.
-- **Tech Fest Participation**: Proud winner of first prize in Techzibition, and actively involved in various tech fests and competitions.
-- **Internship Experience**: Completed a summer internship at ISI Kolkata and worked as a social sector intern at Pawzz, raising funds for animal welfare.
+- 🌟 **Machine Learning & Computer Vision**: Hands-on experience with **Graph Convolutional Networks (GCNs)** and improving their performance by tackling over-smoothing issues.
+- 📱 **Mobile App Developer**: Currently building a **habit tracker app** using Flutter to help users meet their goals efficiently.
+- 🧠 **Problem Solver**: Love solving algorithmic problems and constantly improving my skills in this area.
+- 🎓 **Internships**: Summer internship at **ISI Kolkata**, where I worked on advanced ML models; social sector intern at **Pawzz**, raising funds for stray animals.
 
-## Achievements
-- Finished reading **'Security Analysis'** by Benjamin Graham, which greatly influenced my investment philosophy.
-- Completed a mini local marathon, showcasing my commitment to fitness and endurance.
+## 🏆 Achievements
+- 🥇 **First Prize** at **Techzibition** for an innovative tech project.
+- 📱 Building a habit tracker app using **Flutter**.
 
-## Interests
-- **Reading**: Always on the lookout for thought-provoking books and articles.
-- **Debating**: Participated in and won multiple awards in debate, quiz, and extempore competitions.
-- **Fitness**: Engaged in running, HIIT, and strength training, with a goal to climb the 8-thousanders.
+## 💡 Interests
+- 💬 **Debating & Quizzing**: Have won multiple inter-school and intra-school awards in debates, quizzes, and extempore competitions.
+- 🧗 **Fitness & Adventure**: Training for endurance with a focus on strength and performance.
 
-## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aishik-patra-762017261), [Instagram](https://www.instagram.com/aishikpatra/) & [𝕏](https://x.com/aishikpatra7).
+## 🔧 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Let's Connect!
-I'm open to collaborations, projects, and discussions. Drop me a message or check out my repositories for more information on my work!
+## 🔗 Let's Connect!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishik-patra-762017261)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aishikpatra/)
+- [![𝕏](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aishikpatra7)
 
+---
+
+⭐ Feel free to explore my repositories and connect with me for collaborations, projects, or just a chat!
