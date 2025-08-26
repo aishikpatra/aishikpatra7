@@ -1,10 +1,15 @@
-**Software Engineer**  
-**Skills:** Flutter, Python  
-**Experience:** Research Intern at ISI Kolkata
+# Hi there 👋, I'm Aishik D. Patra  
 
-- LinkedIn: [aishik-patra-762017261](https://www.linkedin.com/in/aishik-patra-762017261)
-- Twitter: [@aishikpatra7](https://x.com/aishikpatra7)
+**Flutter Developer | Looking at the AI Spring | Wannabe Pilot**  
 
-> "Greatness inspires envy. Envy engenders spite. Spite spawns lies."
+🎓 Bachelor of Technology Graduate from **Jalpaiguri Government Engineering College**  
+💻 Skilled in **C/C++ | Dart/Flutter | Java | Python**  
+📚 Currently reading AI-oriented papers from **arXiver** and sharpening problem-solving on **LeetCode**  
 
-Orophile, voracious reader, open to collaborations.
+✍️ Outside of code, I enjoy **blogging, chess, mountaineering, and reading**  
+
+📬 Reach me at: **aishikkainbox@gmail.com**  
+
+---
+
+💡 Since you are here, feel free to explore my repositories! 🚀
